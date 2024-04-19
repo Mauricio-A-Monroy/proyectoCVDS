@@ -8,7 +8,7 @@ const TestBox = () => {
     }
 
     return <div>
-        <article title="párrafo"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga, consequatur!
+        <article title="párrafo"> PROYECTO CVDS :D
         </article>
         <button onClick={logInPage}>Iniciar sesión</button>
     </div>
